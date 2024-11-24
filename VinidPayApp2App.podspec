@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'VinidPayApp2App'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'Vinid pay sdk to connect with OneU App'
   s.homepage         = 'https://github.com/97longphan/VinidPayApp2App'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
